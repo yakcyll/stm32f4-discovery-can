@@ -1,0 +1,9 @@
+*.o
+*.a
+*.pid
+*.lst
+*.swp
+*.old
+*.bin
+*.elf
+
